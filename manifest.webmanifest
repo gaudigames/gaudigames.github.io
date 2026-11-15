@@ -1,0 +1,24 @@
+{
+  "name": "Gaudi Games",
+  "short_name": "Gaudi Games",
+  "description": "Ergebnisse eintragen, Duelle im Blick behalten und am Ende beim Gaudi Master abgeben.",
+  "lang": "de",
+  "id": "./",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f1",
+  "theme_color": "#1f6f4a",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
